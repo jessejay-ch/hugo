@@ -5,10 +5,10 @@ require (
 	github.com/PuerkitoBio/purell v1.2.0
 	github.com/alecthomas/chroma/v2 v2.4.0
 	github.com/armon/go-radix v1.0.0
-
+	github.com/aws/aws-sdk-go v1.44.68
 	github.com/bep/clock v0.3.0
 	github.com/bep/debounce v1.2.0
-	github.com/bep/gitmap v1.1.2
+	github.com/bep/gitmap v1.3.0
 	github.com/bep/goat v0.5.0
 	github.com/bep/godartsass v0.14.0
 	github.com/bep/golibsass v1.1.0
