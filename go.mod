@@ -5,7 +5,7 @@ require (
 	github.com/PuerkitoBio/purell v1.2.0
 	github.com/alecthomas/chroma/v2 v2.4.0
 	github.com/armon/go-radix v1.0.0
-
+	github.com/aws/aws-sdk-go v1.44.68
 	github.com/bep/clock v0.3.0
 	github.com/bep/debounce v1.2.0
 	github.com/bep/gitmap v1.1.2
@@ -13,7 +13,7 @@ require (
 	github.com/bep/godartsass v0.14.0
 	github.com/bep/golibsass v1.1.0
 	github.com/bep/gowebp v0.2.0
-	github.com/bep/overlayfs v0.6.0
+	github.com/bep/overlayfs v0.8.0
 	github.com/bep/tmc v0.5.1
 	github.com/clbanning/mxj/v2 v2.5.7
 	github.com/cli/safeexec v1.0.0
