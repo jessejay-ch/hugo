@@ -5,7 +5,7 @@ require (
 	github.com/PuerkitoBio/purell v1.2.0
 	github.com/alecthomas/chroma/v2 v2.4.0
 	github.com/armon/go-radix v1.0.0
-
+	github.com/aws/aws-sdk-go v1.44.68
 	github.com/bep/clock v0.3.0
 	github.com/bep/debounce v1.2.0
 	github.com/bep/gitmap v1.1.2
@@ -23,7 +23,7 @@ require (
 	github.com/fortytw2/leaktest v1.3.0
 	github.com/frankban/quicktest v1.14.4
 	github.com/fsnotify/fsnotify v1.6.0
-	github.com/getkin/kin-openapi v0.109.0
+	github.com/getkin/kin-openapi v0.110.0
 	github.com/ghodss/yaml v1.0.0
 	github.com/gobuffalo/flect v0.3.0
 	github.com/gobwas/glob v0.2.3
